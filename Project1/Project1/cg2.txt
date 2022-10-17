@@ -2,7 +2,7 @@ This is computer graphics warming up.
 1 2 3 4 5 6 7 8 9 10
 File input output test
 3D computer graphics
-2022 Fal semester
+2022 Fall semester
 Mint chocolate chip
 Game engineering department
 1001 ada_ada 1001
