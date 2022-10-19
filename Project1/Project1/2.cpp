@@ -3,15 +3,14 @@
 #include <string>
 
 using namespace std;
-char Inputcom();
 
 int main()
 {
     cout << "Input data name : ";
     string name;
-    //cin >> name;
+    cin >> name;
 
-	ifstream in("cg2.txt");
+	ifstream in(name);
 	string s;
 
     int word_count = 0;
